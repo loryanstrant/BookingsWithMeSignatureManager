@@ -1,5 +1,7 @@
-# BookingsWithMeSignatureManager
-A solution for end-users to easily add/remove their Bookings with Me public page to their email signature, using a Power App front-end, Power Automate workflows, Microsoft Graph calls, and an Exchange PowerShell script running in an Azure Automation Runbook
+# Bookings with Me Signature Manager
+A solution for end-users to easily add/remove their Bookings with Me public page to their email signature, using a Power App front-end, Power Automate workflows, Microsoft Graph calls, and an Exchange PowerShell script running in an Azure Automation Runbook.
+![image](https://user-images.githubusercontent.com/51473494/193504352-f3e784c3-b098-412d-b5f7-0d4564898b37.png)
+
 
 *** NOT COMPLETE***
 
