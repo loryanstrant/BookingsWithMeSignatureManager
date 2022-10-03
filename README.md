@@ -1,5 +1,5 @@
-# BookWithMeSignatureManager
-A solution for end-users to easily add/remove their Book with Me public page to their email signature, using a Power App front-end, Power Automate workflows, Microsoft Graph calls, and an Exchange PowerShell script running in an Azure Automation Runbook
+# BookingsWithMeSignatureManager
+A solution for end-users to easily add/remove their Bookings with Me public page to their email signature, using a Power App front-end, Power Automate workflows, Microsoft Graph calls, and an Exchange PowerShell script running in an Azure Automation Runbook
 
 *** NOT COMPLETE***
 
@@ -9,8 +9,8 @@ Prerequisites:
 - Azure Automation account
   - Exchange Online Management module for PowerShell installed
   - Run As account created
-  - Exchange Administrator role assigned
-  Follow this blog for steps on how to achieve this: https://practical365.com/use-azure-automation-exchange-online/
+  - Exchange Administrator role assigned<br>
+  Follow this blog for steps on how to achieve the above steps: https://practical365.com/use-azure-automation-exchange-online/
 
 Steps required to install:
 1. Import the solution into Power Apps / Power Automate
