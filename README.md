@@ -1,8 +1,12 @@
 # Bookings with Me Signature Manager
 A solution for end-users to easily add/remove their Bookings with Me public page to their email signature, using a Power App front-end, Power Automate workflows, Microsoft Graph calls, and an Exchange PowerShell script running in an Azure Automation Runbook.
 <br>
+An example of the end-user experience:
 ![image](https://user-images.githubusercontent.com/51473494/193504352-f3e784c3-b098-412d-b5f7-0d4564898b37.png)
 
+The output looks like this:
+![image](https://user-images.githubusercontent.com/51473494/193695677-1fcc0c70-08bd-4d9f-b990-bd636fed5c7e.png)
+<br>
 
 You can access the full write-up of this solution here: https://www.loryanstrant.com/2022/10/04/automatically-populate-staff-signatures-with-their-bookings-with-me-public-page/
 
