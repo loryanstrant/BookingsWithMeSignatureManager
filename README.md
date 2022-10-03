@@ -30,3 +30,4 @@ Steps required to install:
    - "USERS - Book with Me - set URL in extensionAttribute1"
 6. Turn on the workflow "USERS - Book with Me (CHILD FLOW) - get ExchangeGUID" and copy the HTTP POST URL from the trigger
 7. Paste the HTTP POST URL from step 6 into the "HTTP - call child workflow" action in the workflow "USERS - Book with Me - set URL in extensionAttribute1"
+8. Publish the app, and away you go!
